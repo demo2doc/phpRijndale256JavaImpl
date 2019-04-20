@@ -1,0 +1,2 @@
+# phpRijndale256JavaImpl
+用java语言实现php的Mcrypt_Rijndale_256加解密
